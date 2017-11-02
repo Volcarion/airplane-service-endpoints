@@ -8,4 +8,3 @@ mongoose.Promise = global.Promise;
 require('./climb');
 require('./takeoff');
 require('./landing');
-require('./helper');
